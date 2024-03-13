@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoAshouri&show=reviews&show_icons=true&theme=shadow_blue&border_color=02a0a6&title_color=02a0a6&text_color=5d6b7a&icon_color=02a0a6)](https://github.com/anuraghazra/github-readme-stats)
+- 
+<center>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MoAshouri&show=reviews&show_icons=true&theme=shadow_blue&border_color=02a0a6&title_color=02a0a6&text_color=5d6b7a&icon_color=02a0a6" />
+</a>
+</center>
