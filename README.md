@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MoAshouri.MoAshouri&left_text=Page%20Visitors)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=MoAshouri%2FMoAshouri&labelColor=%235d6b7a&countColor=%2302a0a6&labelStyle=upper)](https://visitorbadge.io/status?path=MoAshouri%2FMoAshouri)
 
 ### Hi there 👋
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoAshouri&show=reviews&show_icons=true&theme=shadow_blue&title_color=02a0a6&text_color=5d6b7a&icon_color=02a0a6)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoAshouri&show=reviews&show_icons=true&theme=shadow_blue&border_color=02a0a6&title_color=02a0a6&text_color=5d6b7a&icon_color=02a0a6)](https://github.com/anuraghazra/github-readme-stats)
