@@ -1,4 +1,4 @@
-[![Visitors](https://api.visitorbadge.io/api/combined?path=MoAshouri%2FMoAshouri&labelColor=%235d6b7a&countColor=%2302a0a6&labelStyle=upper)](https://visitorbadge.io/status?path=MoAshouri%2FMoAshouri)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=MoAshouri%2FMoAshouri&labelColor=%235d6b7a&countColor=%23018287&labelStyle=upper)](https://visitorbadge.io/status?path=MoAshouri%2FMoAshouri)
 
 ### Hi there 👋
 
