@@ -1,4 +1,5 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=moashouri.moashouri)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MoAshouri.MoAshouri&left_text=MyPageVisitors)
+
 ### Hi there 👋
 
 <!--
