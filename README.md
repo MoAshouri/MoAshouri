@@ -1,7 +1,7 @@
 [![Visitors](https://api.visitorbadge.io/api/combined?path=MoAshouri%2FMoAshouri&labelColor=%235d6b7a&countColor=%23018287&labelStyle=upper)](https://visitorbadge.io/status?path=MoAshouri%2FMoAshouri)
 
 
-# [Welcome to My GitHub Profile](https://github.com/MoAshouri) 👋
+# [Welcome to My GitHub Profile](https://github.com/MoAshouri) <img src="./assets/hello.gif" alt="Alt Text" width="100" height="100">
 <br/>
 About Me
 Hey there! I'm [Your Name], a passionate Front-End developer with a keen interest in learning and mastering the art of web development. Currently based [Your Location or Remote].
