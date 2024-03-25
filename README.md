@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Scribble&size=30&pause=1000&color=2CD7F7&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+My+GitHub+Profile%2C;I'm+Mohammad+Ashouri%2C;A+lover+of+Light+Blue.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=30&pause=1000&color=2CD7F7&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+My+GitHub+Profile%2C;I'm+Mohammad+Ashouri%2C;A+lover+of+Light+Blue.)](https://git.io/typing-svg)
   
   <img src="./assets/men_left.gif" alt="Alt Text" width="100" height="100">
   <img src="./assets/hello2.gif" alt="Alt Text" width="150" height="100">
