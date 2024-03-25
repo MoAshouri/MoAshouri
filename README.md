@@ -34,7 +34,7 @@ I started my journey in the vast world of programming with a focus on Front-End 
 
 ## Let's Connect
 
-📫 Interested in collaborating on exciting projects or just want to chat about all things Front-End? Feel free to reach out via [(My E-mail)](mailto:moashouri79@gmail.com).
+📫 Interested in collaborating on exciting projects or just want to chat about all things Front-End? Feel free to reach out via <a href="mailto:moashouri79@gmail.com" target="blank"><img align="center" src="./assets/gmail.png" alt="moashouri@gmail.com" height="22" width="28" /></a><a href="https://twitter.com/vm_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vm_programmer" height="22" width="32" /></a><a href="https://linkedin.com/in/mohammad-ashouri-768203235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mohammad-ashouri-768203235" height="22" width="32" /></a>
 
 
 <br>
