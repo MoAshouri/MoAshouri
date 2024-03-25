@@ -37,18 +37,25 @@ I started my journey in the vast world of programming with a focus on Front-End 
 📫 Interested in collaborating on exciting projects or just want to chat about all things Front-End? Feel free to reach out via [(My E-mail)](mailto:moashouri79@gmail.com).
 
 
+<br>
+<br>
 
-## Activities
+<div align="center">
+  
+## My Activities
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MoAshouri&theme=shadow_blue&text_color=5d6b7a&&hide_border=true)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
             height=200
             align="center"
-            src="https://github-readme-stats.vercel.app/api?username=MoAshouri&show=reviews&show_icons=true&theme=shadow_blue&border_color=02a0a6&title_color=02a0a6&text_color=5d6b7a&icon_color=02a0a6"
+            src="https://github-readme-stats.vercel.app/api?username=MoAshouri&show=reviews&show_icons=true&theme=shadow_blue&hide_border=true&title_color=02a0a6&text_color=5d6b7a&icon_color=02a0a6"
     />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/anuraghazra/convoychat">
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoAshouri&&theme=shadow_blue&layout=compact&langs_count=8&card_width=320&border_color=02a0a6&title_color=02a0a6&text_color=5d6b7a&" />
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoAshouri&&theme=shadow_blue&layout=compact&langs_count=8&card_width=320&hide_border=true&title_color=02a0a6&text_color=5d6b7a&" />
 </a>
+</div>
