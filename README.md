@@ -132,6 +132,8 @@ I started my journey in the vast world of programming with a focus on Front-End 
   
 ## My Activities
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moashouri&no-bg=true&theme=nord&no-frame=true" alt="moashouri" /></a> </p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=MoAshouri&theme=shadow_blue&text_color=5d6b7a&&hide_border=true)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
