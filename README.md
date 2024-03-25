@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1><a href="https://github.com/MoAshouri">Welcome to My GitHub Profile</a><h1/><br>
+  <h1><a href="https://github.com/MoAshouri">Welcome to My GitHub Profile</a></h1><br>
   <img src="./assets/hello2.gif" alt="Alt Text" width="150" height="100">
   <img src="./assets/men_skill.gif" alt="Alt Text" width="100" height="100">
 </div>
