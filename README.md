@@ -142,7 +142,7 @@ I started my journey in the vast world of programming with a focus on Front-End 
     <img 
             height=200
             align="center"
-            src="https://github-readme-stats.vercel.app/api?username=MoAshouri&show=reviews&show_icons=true&theme=shadow_blue&hide_border=true&title_color=02a0a6&text_color=5d6b7a&icon_color=02a0a6"
+            src="https://github-readme-stats.vercel.app/api?username=MoAshouri&show=reviews&show_icons=true&theme=dark&hide_border=true&title_color=02a0a6&text_color=5d6b7a&icon_color=02a0a6"
     />
 </a>
 <br/>
