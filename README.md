@@ -138,12 +138,7 @@ I started my journey in the vast world of programming with a focus on Front-End 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MoAshouri&theme=shadow_blue&text_color=5d6b7a&&hide_border=true)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-            height=200
-            align="center"
-            src="https://github-readme-stats.vercel.app/api?username=MoAshouri&show=reviews&show_icons=true&theme=dark&hide_border=true&title_color=02a0a6&text_color=5d6b7a&icon_color=02a0a6"
-    />
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=react&preferLogin=false&Text=979797">    <img  alt="MoAshouri's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MoAshouri?cardType=level&theme=react&preferLogin=false&Text=979797" />  
 </a>
 <br/>
 <br/>
