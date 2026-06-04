@@ -4,7 +4,7 @@
 
 <br/>
 
-## About Me
+## 👨‍💻 About Me
 I'm Ashouri, a Full Stack JavaScript Engineer focused on building modern web applications, SaaS platforms, and AI-powered products.
 
 I specialize in creating scalable, production-ready solutions using React, Next.js, TypeScript, Node.js, and NestJS.
@@ -12,9 +12,8 @@ I specialize in creating scalable, production-ready solutions using React, Next.
 My goal is not only to write code, but to design systems that solve real business problems and deliver measurable value.
     
 I started my journey in the vast world of programming with a focus on Front-End development. My fascination with crafting beautiful and interactive user experiences drove me to delve deeper into technologies like HTML, CSS, and JavaScript. Over time, I've honed my skills and expanded my toolkit, particularly in frameworks like React and Next.js.
-<br/>
 
-## What I Bring
+### What I Bring
 ✅ Front-End Architecture
 
 ✅ Back-End Development
@@ -34,6 +33,8 @@ I started my journey in the vast world of programming with a focus on Front-End 
 ✅ Clean Architecture
 
 ✅ Scalable Systems
+<br/>
+
 
 ## 🏗 Architecture & Engineering
 I enjoy designing and building complete systems including:
